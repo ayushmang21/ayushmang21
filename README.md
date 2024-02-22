@@ -8,7 +8,11 @@
 
 <h1>Github Stats:</h1>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayushmang21&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayushmang21&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak" /></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushmang21&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmang21&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5)
 
 <div>
 
@@ -27,8 +31,6 @@
   </a>
   
 </div>
-
-<br>
 
 <div>
 
