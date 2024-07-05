@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Web Dev
 
-📫 How to reach me - ayushman021@gmail.com
+📫 How to reach me - ayushman0021@gmail.com
 
 <h1>Github Stats:</h1>
 
