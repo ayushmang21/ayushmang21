@@ -6,7 +6,7 @@
 
 📫 How to reach me - ayushman0021@gmail.com
 
-<h1>Github Stats:</h1>
+<h1>GitHub Stats:</h1>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ayushmang21&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak" /></a>
 
