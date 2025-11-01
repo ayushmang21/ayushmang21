@@ -1,8 +1,8 @@
 👋 Hi, I’m Ayushman
 
-👀 I’m interested in Coding
+👀 I’m interested in Coding. (As you can see...)
 
-🌱 Web Dev
+🌱 Full Stack Web Developer | Technical Trainer
 
 📫 How to reach me - ayushman0021@gmail.com
 
