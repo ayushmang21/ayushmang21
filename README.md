@@ -2,7 +2,7 @@
 
 👀 I’m interested in Coding
 
-🌱 I’m currently learning Web Dev
+🌱 Web Dev
 
 📫 How to reach me - ayushman0021@gmail.com
 
